@@ -1,0 +1,6 @@
+Name:Chidi-Uba Esther Chinazom
+Matric Number:250000065
+Machine Learning Algorithm Used:LogisticRegression
+Model persistence method used: joblib
+Live URL of the hosted application: https://breast-cancer-prediction-model-4.onrender.com
+GitHub repository link: https://github.com/ubachidiesther8-create/Breastcancer_Project_estherchidi-uba_250000065.git
